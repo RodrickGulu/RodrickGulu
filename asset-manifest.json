@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RodrickGulu/static/css/main.cf0263f2.css",
+    "main.js": "/RodrickGulu/static/js/main.ae10a8ba.js",
+    "static/js/787.a2c85454.chunk.js": "/RodrickGulu/static/js/787.a2c85454.chunk.js",
+    "static/media/img2.jpg": "/RodrickGulu/static/media/img2.b67b8e490cf1f4f09cab.jpg",
+    "static/media/img1.jpg": "/RodrickGulu/static/media/img1.6b9eec57704d70c5f051.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/RodrickGulu/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/pngwing.com.png": "/RodrickGulu/static/media/pngwing.com.becbab0ab5d2271d2831.png",
+    "static/media/Java_logo_icon.png": "/RodrickGulu/static/media/Java_logo_icon.cfdbf4ed872f7380a257.png",
+    "static/media/fontawesome-webfont.eot": "/RodrickGulu/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/RodrickGulu/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/RodrickGulu/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/RodrickGulu/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/MySQL-Logo.wine.png": "/RodrickGulu/static/media/MySQL-Logo.wine.6e42b2a035b28f240021.png",
+    "static/media/pngaaa.com-2459546.png": "/RodrickGulu/static/media/pngaaa.com-2459546.9463240a940247a1d9e9.png",
+    "static/media/slick.svg": "/RodrickGulu/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/RodrickGulu/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/RodrickGulu/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/RodrickGulu/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/RodrickGulu/index.html",
+    "main.cf0263f2.css.map": "/RodrickGulu/static/css/main.cf0263f2.css.map",
+    "main.ae10a8ba.js.map": "/RodrickGulu/static/js/main.ae10a8ba.js.map",
+    "787.a2c85454.chunk.js.map": "/RodrickGulu/static/js/787.a2c85454.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0263f2.css",
+    "static/js/main.ae10a8ba.js"
+  ]
+}
